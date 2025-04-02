@@ -2,7 +2,7 @@ package TeamMembers.Anton;
 
 import TeamMembers.Rasa.Country;
 
-public class MyCountry {
+public class CountryTest {
 
         public static void main(String[] args) {
 
