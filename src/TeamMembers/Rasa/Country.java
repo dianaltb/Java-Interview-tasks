@@ -14,13 +14,6 @@ public class Country {
         worldCo2Level = 417.83;
     }
 
-    public static double getWorldPopulation() {
-        return worldPopulation;
-    }
-
-    public static double getWorldCo2Level() {
-        return worldCo2Level;
-    }
 
     public Country(String name, double population, String continent) {
         this.name = name;
