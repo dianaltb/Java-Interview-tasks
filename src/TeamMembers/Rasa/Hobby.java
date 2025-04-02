@@ -37,6 +37,5 @@ public class Hobby {
                 ", isOutdoor=" + isOutdoor +
                 ", isRequiredOthers=" + isRequiredOthers +
                 '}';
-
     }
 }
