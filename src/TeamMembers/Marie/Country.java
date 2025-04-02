@@ -15,6 +15,7 @@ public class Country {
     static {
         worldPopulation = 7.88;
         co2Level = 417.83;
+
     }
 
     //Create a constructor to initialize the instance variables
