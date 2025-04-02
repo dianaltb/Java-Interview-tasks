@@ -8,7 +8,7 @@ public class CountryTest {
 
         System.out.println(country1);
 
-        System.out.println(Country.getWorldCo2Level());
-        System.out.println(Country.getWorldPopulation());
+        System.out.println(Country.worldPopulation + " billion");
+        System.out.println(Country.worldCo2Level + " ppm");
     }
 }
