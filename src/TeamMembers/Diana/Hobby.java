@@ -44,7 +44,7 @@ public void doIt(){
                 isOutdoor (boolean)
                 isRequiredOthers (boolean)
             Create these overloaded constructors to initialize all the instance variables:
-                name
+                name,
                 name, annualCost
                 name, annualCost, isOutdoor, isRequiredOthers
 
@@ -60,9 +60,9 @@ public void doIt(){
             Add new hobby objects whit add() method
             Print all hobbies
             Execute the doIt() method one by one for hobbies
-            Execute the doIt() method for all hobbies with iterating through the ArrayList
-            Print just Indoor Hobbies List
-            Print just Play Alone Hobbies List
+          =  Execute the doIt() method for all hobbies with iterating through the ArrayList
+          -  Print just Indoor Hobbies List
+         -   Print just Play Alone Hobbies List
             Print just Expensive Hobbies List
-            Print  Hobby a Annual Cost
+            Print  Hobby an Annual Cost
  */
