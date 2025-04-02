@@ -10,5 +10,6 @@ public class CountryTest {
 
         System.out.println(Country.worldPopulation + " billion");
         System.out.println(Country.worldCo2Level + " ppm");
+
     }
 }
