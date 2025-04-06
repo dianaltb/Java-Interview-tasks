@@ -1,0 +1,9 @@
+`2) CreditCard
+    -instance variables: type, card number, name, expiration date
+    -constructor that accepts all values and calls the setters
+    -Getters and Setters for each:
+        -valid types -> "visa","mastercard","discover","american express"
+        -card number -> "visa","mastercard","discover" -> 16 digits
+                     -> "american express" -> 15 digits
+        -name -> cannot be null or empty
+    -generate toString()`
