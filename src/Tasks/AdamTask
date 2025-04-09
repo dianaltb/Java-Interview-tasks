@@ -1,0 +1,55 @@
+Student Task Requirements:
+1. Create a class named "Person" with the following specifications:
+   Attributes:
+       - name: String
+       - age: int
+       - gender: String
+
+   Constructor:
+          - Add a constructor that can set all the fields when the Person class is created.
+
+   Encapsulation:
+       - Encapsulate all the fields.
+
+   Actions:
+       - toString(): Prints the information of the Person object.
+
+2. Create a subclass named "Student" with the following specifications:
+   Attributes:
+       - studentId: String
+       - fieldOfStudy: String
+       - grade: char
+       - schoolName: String
+
+   Encapsulation:
+       - Encapsulate all the fields.
+
+   Constructor:
+          - Add a constructor that can set all the fields when the Student class is created.
+
+   Actions:
+       - study(): Displays a message stating the student's name and school.
+       - toString(): Prints the information of the Student object (including all attributes).
+
+3. Create the following subclasses of the Student class:
+   3.1 Create GraduateStudent subclasses of the Student class:
+        Attributes:
+          - graduateDate;
+        Encapsulate the fields.
+        Add a constructor that can set all the fields when the GraduateStudent object is created.
+        Override the the study() method.
+
+   3.2 Create CydeoStudent subclasses of the Student class:
+       - Additional Attributes:
+           - batchNumber: int
+           - groupNumber: int
+           - programmingLanguage: String
+       -  Encapsulate the fields.
+       - Add a constructor that can set all the fields when the GraduateStudent object is created.
+       - Actions:
+           - Override the study method.
+           - Override the toString method.
+
+4. Create a class named "StudentClients":
+   - Create multiple objects representing different students.
+   - Test the methods and attributes of each object.
