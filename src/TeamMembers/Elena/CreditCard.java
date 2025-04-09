@@ -18,7 +18,7 @@ public class CreditCard {
     public CreditCard(String type, String cardNumber, String name, int expirationDate) {
         setType(type);
         setCardNumber(cardNumber);
-        this.name = name;
+        setName(name);
         this.expirationDate = expirationDate;
     }
 
